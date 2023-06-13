@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<persona>
+    <persona id="1">
+        <nombre>Lucas</nombre>
+        <dni>12345678A</dni>
+        <edad>23</edad>
+        <salario>25000.33</salario>
+    </persona>
+    <persona id="3">
+        <nombre>Eva</nombre>
+        <dni>12345678C</dni>
+        <edad>54</edad>
+        <salario>40000.33</salario>
+    </persona>
+</persona>

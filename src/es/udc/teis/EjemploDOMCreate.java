@@ -4,7 +4,6 @@
  */
 package es.udc.teis;
 
-import com.sun.org.apache.xml.internal.serializer.OutputPropertiesFactory;
 import es.udc.teis.model.Version;
 import java.nio.file.Paths;
 import java.util.ArrayList;
