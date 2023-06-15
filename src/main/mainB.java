@@ -45,7 +45,7 @@ public class mainB {
 			File inputFile = new File(PERSONAS_INPUT_FILE);
 
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
-			dbFactory.setNamespaceAware(true);
+			dbFactory.setNamespaceAware(true); //importante para leer espacios de nombres!!
 
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 			Document doc = dBuilder.parse(inputFile);
